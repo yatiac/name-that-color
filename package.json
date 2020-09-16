@@ -1,0 +1,21 @@
+{
+  "name": "@yatiac/name-that-color",
+  "version": "1.1.0",
+  "description": "npm package for library Name that Color JavaScript created by Chirag Mehta (http://chir.ag/projects/ntc)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hex",
+    "color",
+    "name",
+    "that",
+    "get",
+    "color",
+    "name"
+  ],
+  "author": "yatiac",
+  "license": "MIT",
+  "repository": "yatiac/name-that-color"
+}
